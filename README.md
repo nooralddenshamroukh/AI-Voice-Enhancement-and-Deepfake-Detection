@@ -101,5 +101,5 @@ Most experiments are designed to run on **Google Colab** with GPU acceleration.
 ---
 
 ## 📽️ Project Materials
-- 📑 [GPT2_documentation.pdf](./Report.pdf) – Full documentation  
+- 📑 [GPT2_documentation.pdf](./GPT2_documentation.pdf) – Full documentation  
 - 📊 [GPT2_Presentation (FINAL).pptx](./Presentation.pptx) – Project slides
