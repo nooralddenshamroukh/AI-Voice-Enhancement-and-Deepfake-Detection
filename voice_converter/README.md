@@ -1,9 +1,3 @@
-⚖️ License Note
-
-This project uses Demucs and Whisper, created by their original authors.
-They are included here only for academic purposes. Redistribution or commercial use must follow their original licenses.
----
-
 ## 🔹 `Voice_Converter/README.md`
 
 ```markdown
@@ -64,3 +58,8 @@ Input: noor_voice.wav
 Target: Trained model (e.g., speaker X)
 
 Output: noor_as_speakerX.wav
+
+⚖️ License Note
+
+This module uses WavLM (Microsoft), RMVPE, and HiFi-GAN, created by their original authors.
+They are included here only for research & demonstration. Redistribution or commercial use must respect their original licenses.
